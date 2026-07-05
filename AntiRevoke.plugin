@@ -2,7 +2,7 @@
 #!desc=适用于代理环境下的证书反撤销插件
 #!system=iOS,iPadOS,macOS,watchOS
 #!date=2026-07-05
-#!system_version=18
+#!system_version=6
 
 [Rule]
 DOMAIN,17.173.66.213,REJECT
