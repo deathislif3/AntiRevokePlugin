@@ -1,6 +1,8 @@
-#!name=AntiRevoke
-#!desc=适用于代理环境的反撤销插件
-#!author=deathislif3
+#!name = Anti Revoke
+#!desc = 适用于代理环境下的证书反撤销插件
+#!system = iOS,iPadOS,macOS,watchOS
+#!date = 2026-07-05
+#!system_version = 18
 
 [Rule]
 DOMAIN,17.173.66.213,REJECT
