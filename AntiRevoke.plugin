@@ -3,6 +3,7 @@
 #!system=iOS,iPadOS,macOS,watchOS
 #!date=2026-07-19
 #!system_version=6
+#!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_2.png
 
 [Rule]
 DOMAIN,ocsp.apple.com,REJECT
