@@ -1,7 +1,7 @@
 #!name=Anti Revoke
 #!desc=适用于代理环境下的证书反撤销插件
 #!system=iOS,iPadOS,macOS,watchOS
-#!date=2026-07-05
+#!date=2026-07-19
 #!system_version=6
 
 [Rule]
@@ -12,3 +12,5 @@ DOMAIN,crl.apple.com,REJECT
 DOMAIN,certs.apple.com,REJECT
 DOMAIN,appattest.apple.com,REJECT
 DOMAIN,vpp.itunes.apple.com,REJECT
+DOMAIN,crl.entrust.net,REHECT
+
