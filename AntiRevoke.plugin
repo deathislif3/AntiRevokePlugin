@@ -5,14 +5,6 @@
 #!system_version=6
 
 [Rule]
-DOMAIN,17.173.66.213,REJECT
-DOMAIN,ppq-st-ext.itunes.apple.com,REJECT
-DOMAIN,ppq-ext.v.aaplimg.com,REJECT
-DOMAIN,usw2-ppq-ext-prod.apple.com,REJECT
-DOMAIN,use1-ppq-ext-prod.apple.com,REJECT
-DOMAIN,ppq-ext.apple.com,REJECT
-DOMAIN-SUFFIX,*.ppq.apple.com,REJECT
-DOMAIN,ppq.apple.com,REJECT
 DOMAIN,ocsp.apple.com,REJECT
 DOMAIN,ocsp2.apple.com,REJECT
 DOMAIN,valid.apple.com,REJECT
@@ -20,4 +12,3 @@ DOMAIN,crl.apple.com,REJECT
 DOMAIN,certs.apple.com,REJECT
 DOMAIN,appattest.apple.com,REJECT
 DOMAIN,vpp.itunes.apple.com,REJECT
-DOMAIN,crl.entrust.net,REJECT
