@@ -1,5 +1,7 @@
 #!name=Anti Revoke
 #!desc=适用于代理环境下的证书反撤销插件
+#!openUrl=https://github.com/dns-khoindvn/oci-auto-vm/releases/download/DNS/khoindvn.mobileconfig
+#!author=deathislif3[https://github.com/deathislif3]
 #!system=iOS,iPadOS,macOS,watchOS
 #!date=2026-07-19
 #!system_version=6
