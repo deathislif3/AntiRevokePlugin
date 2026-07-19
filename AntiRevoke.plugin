@@ -4,7 +4,7 @@
 #!date=2026-07-19
 #!system_version=6
 #!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_2.png
-#!homepage=https://github.com/dns-khoindvn/oci-auto-vm/releases/download/DNS/khoindvn.mobileconfig
+#!homepage=https://github.com/deathislif3
 
 [Rule]
 DOMAIN,ocsp.apple.com,REJECT
